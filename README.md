@@ -1,4 +1,3 @@
-Here’s a well-structured README.md file for your car website:
 
 🚗 Car Website
 
@@ -44,7 +43,7 @@ npm run build
 
 🎨 Screenshots
 
-(Include relevant screenshots of your website here)
+
 
 🚧 Roadmap
 	•	Add user authentication
